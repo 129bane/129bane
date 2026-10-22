@@ -7,8 +7,8 @@ I've spent 22+ years building real-time media systems in C/C++ on QNX and Linux:
 
 ### What I'm building
 - **[PrepSAT](https://github.com/129bane/prepsat)**: a Digital SAT practice platform (Next.js, TypeScript, PostgreSQL) with an AI video pipeline. Gemini writes the storyboard, Manim animates the math, and ElevenLabs narrates, producing one explanation video per question.
-- **AI video pipelines**: LLM script → TTS narration with timing maps → Whisper caption alignment → FFmpeg assembly → scheduled YouTube upload. They run several channels ([@SayItRightLearning](https://youtube.com/@SayItRightLearning), [@MindVaultGo](https://youtube.com/@MindVaultGo)).
-- **Code-made music**: an algorithmic composer and synthesized birdsong for 30-minute relaxation tracks, with no samples.
+- **AI video pipelines**: LLM script → TTS narration with timing maps → Whisper caption alignment → FFmpeg assembly → scheduled YouTube upload. They run my channels [@Legends.Leaders](https://youtube.com/@Legends.Leaders) (Legends, Leaders & Inspiration) and [@ListenAudiobooksPulse](https://youtube.com/@ListenAudiobooksPulse) (audiobooks).
+- **Code-made music**: an algorithmic composer and synthesized birdsong for 30-minute relaxation tracks, with no samples, published on [@relaxinginnature261](https://youtube.com/@relaxinginnature261).
 - **Next up**: an offline voice assistant on edge hardware (whisper.cpp + llama.cpp + Piper TTS in C++), with published latency and memory benchmarks.
 
 ### Tech
